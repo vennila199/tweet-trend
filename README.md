@@ -1,4 +1,4 @@
-# Trend application test with webhook
+# Trend application test with webhook and sonar
 
 This is a small application that contains main and test folders.  
 The Main contains the application code.  
