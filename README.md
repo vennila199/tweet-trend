@@ -7,4 +7,6 @@ It also contains pom.xml which has all dependencies and artifact name and versio
 
 Added execution permission to deply.sh file
 redo the changes
+redo the changes agin
+rcommit it again
 
